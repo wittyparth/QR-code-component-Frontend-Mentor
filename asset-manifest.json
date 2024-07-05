@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR-code-component-Frontend-Mentor/static/css/main.f7c980cc.css",
+    "main.js": "/QR-code-component-Frontend-Mentor/static/js/main.737036b6.js",
+    "index.html": "/QR-code-component-Frontend-Mentor/index.html",
+    "main.f7c980cc.css.map": "/QR-code-component-Frontend-Mentor/static/css/main.f7c980cc.css.map",
+    "main.737036b6.js.map": "/QR-code-component-Frontend-Mentor/static/js/main.737036b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c980cc.css",
+    "static/js/main.737036b6.js"
+  ]
+}
